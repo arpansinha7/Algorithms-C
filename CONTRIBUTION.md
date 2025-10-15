@@ -24,7 +24,7 @@ git push origin add-your-feature
 
 # Open a Pull Request from your fork to the main branch of the original repository
 
-Replace <your-username> with your GitHub username and <algorithm name> with the algorithm you are adding.
+Replace < your-username > with your GitHub username and < algorithm name > with the algorithm you are adding.
 
 ## Folder Structure
 
