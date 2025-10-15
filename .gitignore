@@ -39,3 +39,13 @@
 
 # debug information files
 *.dwo
+
+# macOS metadata files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100/
+.Trashes
+.DocumentRevisions-V100/
+.fseventsd/
