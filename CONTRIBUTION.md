@@ -8,16 +8,18 @@ Thank you for your interest in contributing! This repository contains Data Struc
 
 2. Clone your fork locally, create a branch, make edits, commit, push, and submit a Pull Request (PR):
 
-git clone https://github.com/<your-username>/Algorithms-in-C.git
+git clone https://github.com/ < your-username > /Algorithms-in-C.git
 
-cd Algorithms-in-C
+cd Algorithms-in-C  //To enter in the directory
 
-git checkout -b add-your-feature
+git checkout -b add-your-feature. //to create new branch
 
 # Add your new algorithm file or improve existing code in the correct folder
 
 git add .
-git commit -m "Added <algorithm name> in C"
+
+git commit -m "Added < algorithm name > in C"
+
 git push origin add-your-feature
 
 # Open a Pull Request from your fork to the main branch of the original repository
@@ -60,7 +62,7 @@ Place new files in the appropriate folder. If a new category is needed, create a
   - Added bubble_sort algorithm in C
   - Fixed memory leak in linked_list.c
   - Improved comments and readability in stack.c
-  
+
 ## Rules
 - Do not push directly to main.
 - Always create a branch and submit a PR.
