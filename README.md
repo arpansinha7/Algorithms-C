@@ -2,7 +2,7 @@
 
 A structured collection of **Data Structures and Algorithms implemented in pure C language**, made for learners, contributors, and developers who want to strengthen their DSA foundations through clear, readable, and working implementations.
 
----
+---CONTRIBUTIONS ARE WELCOME! Check CONTRIBUTION.md for details--
 
 ## 📘 About
 
