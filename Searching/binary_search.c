@@ -1,9 +1,9 @@
 /*
  * Algorithm: Binary Search
- * Description: Searches for a given key by partitioning array in half according to the key
+ * Description: Searches for a given key in a sorted list by repeatedly dividing the search interval in half
  * Time Complexity: O(log n)
  * Space Complexity: O(1)
- * Limitation : Array must be sorted
+ * Limitation : Array must be in sorted order
  * Note: Output index is 1-based for user readability.
  */
 
